@@ -1,0 +1,12 @@
+MAP Airport
+GRID 15 16
+STREET_NAMES_EAST_WEST A Street, B Street, C Street, D Street, E Street, F Street, G Street, H Street, I Street, J Street, K Street, L Street, M Street, N Street, O Street
+STREET_NAMES_NORTH_SOUTH 1st Street, 2nd Street, 3rd Street, 4th Street, 5th Street, 6th Street, 7th Street, 8th Street, 9th Street, 10th Street, 11th Street, 12th Street, 13th Street, 14th Street, 15th Street, 16th Street
+LANDMARK D13(A9,N13) Airport
+LANDMARK B7(B2,D10) Terminal A
+LANDMARK E7(E2,G10) Terminal B
+LANDMARK H7(H2,J10) Terminal C
+LANDMARK M7(L1,O7) Hotel 1
+LANDMARK F16(A14,G16) Hotel 2
+LANDMARK M16(H14,N16) Hotel 3
+TAXI_STAND N11(42) Taxis

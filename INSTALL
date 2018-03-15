@@ -1,0 +1,5 @@
+Type tar -xvzf Taxi_Beta_src.tar.gz to Unpackage, and type "make"
+ to install
+# make runs to start Server
+# make runc to start Client
+Check Readme to see more test command!
