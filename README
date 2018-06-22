@@ -1,15 +1,9 @@
 Uder Taxi Application v3.0
 
 Designed by AlphaGunTeam:
+Chaoran Nong, Yijian Wang, Yanjie Xu, Yifan Xu, Xiaoyan Yang, Yan Zhang
 
-Chaoran Nong  
-Yijian Wang  
-Yanjie Xu
-Yifan Xu
-Xiaoyan Yang
-Yan Zhang
-
-This is a alpha version taxi software, to install, please type ¡±make¡±, for more detailed instructions,refer to the user manual.
+This is a alpha version taxi software, to install, please type Â¡Â±makeÂ¡Â±, for more detailed instructions,refer to the user manual.
 
 To run this app:
 # make
@@ -27,4 +21,4 @@ To run Test Modules:
 	& More Info if you type:
 	# make testhelp
 
-03/19/2017 Yifan Xu
+More detail:https://github.com/FireMaxX/Uder-Taxi/blob/master/doc/Taxi_UserManual.pdf
